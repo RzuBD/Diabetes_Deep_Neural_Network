@@ -2,7 +2,8 @@
 Diabetes_Classification_Deep_Neural_Network
 
 
-Create a classification model to predict diabetes;
+Create a classification model to predict diabetes
+
 Explore the most common features associated with diabetic risk.
 
 
