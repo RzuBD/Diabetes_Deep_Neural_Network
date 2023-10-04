@@ -17,3 +17,5 @@ Link: https://www.kaggle.com/datasets/andrewmvd/early-diabetes-classification
 Early Classification of Diabetes 
 Article link : https://doi.org/10.1007/978-981-13-8798-2_12
 Kaggle link : https://www.kaggle.com/code/b3d1rhan/diabetes-classification-deep-neural-net
+Kaggle dataset: Early Classification of Diabetes 
+Link: https://www.kaggle.com/datasets/andrewmvd/early-diabetes-classification
